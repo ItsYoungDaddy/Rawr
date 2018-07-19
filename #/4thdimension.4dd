@@ -1,0 +1,4 @@
+OPEN WINDOW (10;45;500;330;0;"Rawr")
+While (True)
+  MESSAGE ("Rawr")
+End while
